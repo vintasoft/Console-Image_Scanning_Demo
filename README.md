@@ -1,6 +1,6 @@
 ﻿# VintaSoft Console Image Scanning Demo
 
-This .NET console project uses <a href="https://www.vintasoft.com/vstwain-dotnet-index.html">VintaSoft TWAIN .NET SDK</a> and demonstrates how to acquire images from TWAIN/WIA/SANE/eSCL image scanner in console application in Windows/Linux/macOS.
+This .NET console project uses <a href="https://www.vintasoft.com/vstwain-dotnet-index.html">VintaSoft TWAIN .NET SDK</a> and demonstrates how to acquire images from TWAIN/WIA/eSCL image scanner in Windows, SANE/TWAIN/eSCL image scanner in Linux, eSCL (Apple AirScan) image scanner in macOS.
 
 
 ## Usage
